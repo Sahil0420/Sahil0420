@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Chandel</h1>
 <h3 align="center">A passionate fullstack develop from Himachal , India.</h3>
 
-- 🔭 I’m currently working on **Gaming Website**
+- 🔭 I’m currently working on **Web Chat App**
 
 - 🌱 I’m currently learning **NextJs & MERN stack**
 
