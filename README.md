@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sahil Chandel</h1>
-<h3 align="center">A passionate fullstack develop from Himachal , India.</h3>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl3aG1mejQ2Ym40aDNsdWtidDVhaHJkY3Zwd3dwamRweW5tajJxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BkNcVwzMcbhTtvi/giphy.gif">
+### 🌟 About Me 🌟
 
+👋 Hey there! I'm Sahil Chandel, a passionate engineer with a love for all things tech. Currently, I'm rocking a Diploma and a B.Tech in Computer Science and Engineering, but my curiosity doesn't stop at graduation. I'm all about diving deep into the realms of IoT, Python, C++, and Robotics, and I'm always eager to explore other engineering branches.
+
+💻 **Tech Stack:**
+- **Languages:** Python, C++, and a bit of everything in between.
+- **Interests:** IoT, Robotics, and the endless possibilities they offer.
+- **Current Focus:** Diving deep into full-stack development with a keen eye on Next.js and the MERN stack.
+
+🔧 **What I'm Up To:**
+- 🔭 Working on a **Web Chat App** that's gonna revolutionize the way we communicate.
+- 🌱 Always learning and growing, currently mastering **Next.js & MERN stack**.
+- 💬 Let's chat about **React, MongoDB, Next.js, Express.js, Python**, or anything tech-related!
+
+🌐 **Connect & Collaborate:**
+I'm always up for a good tech conversation or collaboration. Whether you're into coding, building robots, or just want to geek out over the latest tech trends, feel free to reach out!
+
+---
+
+This "About Me" section captures your technical prowess and enthusiasm in a way that resonates with the Gen Z audience while highlighting your skills and interests.
 - 🔭 I’m currently working on **Web Chat App**
 
 - 🌱 I’m currently learning **NextJs & MERN stack**
