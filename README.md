@@ -1,12 +1,12 @@
-# 💀 Yo, I'm Sahil Chandel
+# <div align="center">⚛️ Sahil Chandel ⚛️</div>
 
 <div align="center">
 
-### 🚀 Backend Hustler | Go Enjoyer | Node.js Addict | Cloud Tinkerer
+### `Backend Engineer • System Builder • Physics Enthusiast • Mathematics Enjoyer`
 
-*"Building APIs so fast they make frontend devs question reality."*
+*"The universe runs on laws. Software runs on abstractions. I'm obsessed with both."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Engineer+%F0%9F%9A%80;Go+%7C+Node.js+%7C+Python;Scalable+Systems+Builder;Cloud+Enjoyer+%E2%98%81%EF%B8%8F;Always+Shipping+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Exploring+Mathematics+%26+Physics;Go+%7C+Python+%7C+Node.js;Always+Learning+Something+Interesting" alt="Typing SVG" />
 
 </div>
 
@@ -14,86 +14,128 @@
 
 ## 🧠 About Me
 
-```bash
-> whoami
+```txt
+Name        :: Sahil Chandel
+Occupation  :: Backend Developer
+Location    :: Earth 🌍
+Current XP  :: Learning Go, Svelte, PostgreSQL
+Mission     :: Build cool systems & understand reality
+Status      :: Debugging life one variable at a time
+```
 
-Name      : Sahil Chandel
-Role      : Backend Developer
-Location  : India 🇮🇳
-Focus     : Distributed Systems & Scalable APIs
-Learning  : Golang • Svelte • PostgreSQL
-Status    : Shipping code and dodging bugs
-Fun Fact  : I think I think too much that I think too much.
+* ⚡ Building backend systems that don't fold under pressure
+* 🚀 Exploring distributed systems, databases & performance engineering
+* 🧮 Deeply interested in Mathematics
+* 🌌 Fascinated by Physics, Cosmology & how the universe works
+* 📚 Forever learning, forever shipping
+
+---
+
+## 🔭 Current Focus
+
+```go
+var Sahil = Developer{
+    Languages: []string{
+        "Go",
+        "Python",
+        "JavaScript",
+        "C++",
+    },
+
+    CurrentlyLearning: []string{
+        "Golang",
+        "Svelte",
+        "PostgreSQL",
+        "System Design",
+    },
+
+    Interests: []string{
+        "Mathematics",
+        "Physics",
+        "Distributed Systems",
+        "Backend Architecture",
+        "Optimization",
+    },
+}
 ```
 
 ---
 
-## 💬 Pull Up & Ask Me About
+## ⚛️ Developer Philosophy
 
-```yaml
-Backend Development:
-  - Node.js
-  - Golang
-  - Python
+> "The same curiosity that asks why galaxies move,
+> asks why a database query is slow."
 
-Databases:
-  - MongoDB
-  - PostgreSQL
-  - MySQL
+<div align="center">
 
-DevOps:
-  - Linux
-  - Nginx
-  - Docker
-  - Cloud Stuff
-
-Current Mood:
-  - "One more feature won't hurt..."
+```txt
+Physics     => Understanding Reality
+Mathematics => Understanding Patterns
+Programming => Turning Patterns Into Reality
 ```
+
+</div>
 
 ---
 
-## 🌐 Connect With The Homie
+## 🛠️ Arsenal
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://hackerrank.com/YOUR_HACKERRANK">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="48"/>
-</a>
+
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,js,cpp,postgres,mongodb,mysql,linux,docker,git,nginx,svelte,nextjs,firebase,bash&perline=8" />
+
 </p>
 
-📩 **Email:** `sahilchandel4200@gmail.com`
+---
+
+## 🌌 Currently Studying
+
+* 🧮 Linear Algebra
+* 📈 Probability & Statistics
+* ⚛️ Quantum Mechanics Concepts
+* 🌠 Cosmology
+* 🏗️ Distributed Systems
+* 🐹 Advanced Go
 
 ---
 
-## ⚔️ Tech Arsenal
+## 📡 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sahilchandel4200@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/sahil-chandel">
+<img src="https://img.shields.io/badge/LinkedIn-Sahil_Chandel-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/sahil">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
+</a>
+
+</p>
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,python,js,cpp,mongodb,postgres,mysql,docker,linux,nginx,git,github,firebase,nextjs,svelte,bash" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahil0420&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil0420&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 Street Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil0420&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil0420&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -103,37 +145,29 @@ Current Mood:
 
 ---
 
-## 🐍 Contribution Snake
+## 🌠 Random Equation Of The Day
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Master Golang
-* ⚡ Build production-grade microservices
-* ☁️ Deep dive into cloud architecture
-* 🧠 Contribute to open source
-* 💰 Turn caffeine into scalable systems
-
----
-
-<div align="center">
-
-### 💀 Code Hard. Ship Fast. Stay Dangerous.
-
-```javascript
-while(alive){
-    eat();
-    code();
-    deploy();
-    repeat();
-}
+```math
+e^{iπ} + 1 = 0
 ```
+
+The most gangster equation in mathematics.
+
+---
+
+## 🎯 Fun Fact
+
+```txt
+I think.
+Then I think about what I thought.
+Then I optimize the thought.
+Then I realize it's 3AM.
+```
+
+---
+
+<div align="center">
+
+### ⚛️ "Code. Calculate. Question Everything."
 
 </div>
